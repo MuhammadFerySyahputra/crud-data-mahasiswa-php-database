@@ -5,3 +5,6 @@ crud data mahasiswa menggunakan php, boostrap 5, database mysql
 
 [Uploading mahasiswa_db.sql…]()
 
+bisa cek disini untuk hasilnya
+https://muhammadferysyahputra.my.id/tugas/crud-1.0.0/
+
